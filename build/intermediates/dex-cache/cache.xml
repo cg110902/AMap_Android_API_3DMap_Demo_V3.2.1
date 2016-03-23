@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\administration\Desktop\AMap_Android_API_3DMap_Demo_V3.2.1\libs\AMap_Search_V3.2.1_20160308.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2ca076e4192ab39f1fae2e265b15e6005a5615d">
+        <dex dex="C:\Users\administration\Desktop\AMap_Android_API_3DMap_Demo_V3.2.1\build\intermediates\pre-dexed\debug\AMap_Search_V3.2.1_20160308-63e3cb36595da1c666aceb1c6f17efadecfe9c8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\administration\Desktop\AMap_Android_API_3DMap_Demo_V3.2.1\libs\AMap_3DMap_V3.2.1_20160225.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7f750341653952b3b4a26aa4b66cc5784259528c">
+        <dex dex="C:\Users\administration\Desktop\AMap_Android_API_3DMap_Demo_V3.2.1\build\intermediates\pre-dexed\debug\AMap_3DMap_V3.2.1_20160225-b75963a4bcdd06f1de5986462be676ef1afe4c9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\administration\Desktop\AMap_Android_API_3DMap_Demo_V3.2.1\libs\AMap_Location_v2.3.0_20160112.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bfe17aa93c71a6973a53fcbaf7bfe2f3a1859dcf">
+        <dex dex="C:\Users\administration\Desktop\AMap_Android_API_3DMap_Demo_V3.2.1\build\intermediates\pre-dexed\debug\AMap_Location_v2.3.0_20160112-077d34bef728b12d12bcca72d375d4e2d18ee66b.jar" />
+    </item>
+    <item
+        jar="C:\Users\administration\Desktop\AMap_Android_API_3DMap_Demo_V3.2.1\libs\Volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="C:\Users\administration\Desktop\AMap_Android_API_3DMap_Demo_V3.2.1\build\intermediates\pre-dexed\debug\Volley-3b7f7fb7e2c5e60801328f2c0a68bf4e2302bd66.jar" />
+    </item>
+    <item
+        jar="C:\Users\administration\Desktop\AMap_Android_API_3DMap_Demo_V3.2.1\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="C:\Users\administration\Desktop\AMap_Android_API_3DMap_Demo_V3.2.1\build\intermediates\pre-dexed\debug\android-support-v4-d2333c3024c68c875de95b5ce2009f1780facd00.jar" />
+    </item>
+
+</items>
